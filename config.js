@@ -70,12 +70,12 @@ global.APIKeys = {
 
 // Sticker WM
 global.botname = process.env.Tasmee
-global.premium = 'false'
-global.packname = 'FIRE MD'
-global.author = 'OPAKSFIRE'
-global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
-global.dygp = 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W'
+global.premium = 'true'
+global.packname = 'Tasmee khan'
+global.author = 'Tasmee'
+global.menuvid = 'https://files.catbox.moe/y6kbbc.jpeg'
+global.igfg = 'https://www.instagram.com/tasmee_ul_hasnain'
+global.dygp = 'https://whatsapp.com/channel/0029VaxYFue1XquRJvsyaq3B'
 global.fgsc = 'https://github.com/'
 global.fgyt = 'https://youtube.com/'
 global.fgpyp = 'https://youtube.com/'
